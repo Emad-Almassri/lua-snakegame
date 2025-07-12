@@ -73,6 +73,7 @@ love .
 ## 👨‍💻 Author
 
 Emad Al-Massri
+
 Assignment: Lua Game Programming  
 
 ---
